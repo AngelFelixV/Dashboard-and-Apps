@@ -11,4 +11,3 @@ sklearn.linear_model
 sklearn.ensemble
 sklearn.metrics
 sklearn.datasets
-sklearn.metrics
