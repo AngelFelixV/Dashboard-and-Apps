@@ -2,12 +2,8 @@ streamlit
 matplotlib
 numpy
 pandas
-plotly.express
-sklearn.linear_model
+plotly
 seaborn
-statsmodels.stats.outliers_influence
-sklearn.model_selection
-sklearn.linear_model
-sklearn.ensemble
-sklearn.metrics
-sklearn.datasets
+scikit-learn
+statsmodels
+
