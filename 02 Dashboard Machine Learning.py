@@ -1,4 +1,3 @@
-streamlit_app_content = """
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -24,9 +23,3 @@ valor = st.number_input("Ingresa valor X para predecir:", min_value=0.0)
 pred = model.predict([[valor]])[0]
 
 st.success(f"Predicción del modelo: {pred:.2f}")
-"""
-
-with open("app.py", "w") as f:
-    f.write(streamlit_app_content)
-
-print("app.py created successfully.")
