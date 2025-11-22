@@ -1,0 +1,5 @@
+stramlit
+matplotlib
+numpy
+pandas
+plotly.express
