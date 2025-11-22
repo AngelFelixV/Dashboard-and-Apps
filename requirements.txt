@@ -3,3 +3,12 @@ matplotlib
 numpy
 pandas
 plotly.express
+sklearn.linear_model
+seaborn
+statsmodels.stats.outliers_influence
+sklearn.model_selection
+sklearn.linear_model
+sklearn.ensemble
+sklearn.metrics
+sklearn.datasets
+sklearn.metrics
